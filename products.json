@@ -1,0 +1,45 @@
+[
+    {
+        "name":"iphone",
+        "price":"154",
+        "feature":"true",
+        "company":"apple"
+    },
+    {
+        "name":"Laptop",
+        "price":"1543",
+        "feature":"true",
+        "company":"apple"
+    },
+    {
+        "name":"CPU",
+        "price":"1054",
+        "feature":"true",
+        "company":"dell"
+    },
+    {
+        "name":"iphone15",
+        "price":"1534",
+        "feature":"true",
+        "company":"apple"
+    },
+    {
+        "name":"iphone14",
+        "price":"1545",
+        "feature":"true",
+        "company":"apple"
+    },
+    {
+        "name":"vivo",
+        "price":"156",
+        "feature":"true",
+        "company":"dell"
+    },
+    {
+        "name":"samsung",
+        "price":"158",
+        "feature":"true",
+        "company":"mi"
+    }
+
+]
