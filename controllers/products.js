@@ -47,10 +47,10 @@ const getAllProductsTesting=async(req,res)=>{
         apiData=apiData.sort(selectFix);
     }
 
-    let page=Number(req.query.page||1);
-    let limit=Number(req.query.limit||5);
-    let skip=(page-1)*limit;
-    apiData=apiData.skip(skip).limit(limit);
+    // let page=Number(req.query.page||1);
+    // let limit=Number(req.query.limit||5);
+    // let skip=(page-1)*limit;
+    // apiData=apiData.skip(skip).limit(limit);
 
     console.log(queryObject)
     const Products=await apiData;
